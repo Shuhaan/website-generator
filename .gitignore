@@ -162,3 +162,7 @@ cython_debug/
 
 # Requirements file
 requirements.txt
+
+#node packages
+node_modules
+package-lock.json
