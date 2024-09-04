@@ -1,3 +1,5 @@
 pytest
 pytest-testdox
 pytest-cov
+requests
+django
